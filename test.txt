@@ -2,5 +2,3 @@ this is a test file/
 now I add some .
 hahaha -2 test git remote.
 now commit to dev branch.
-compiled bug.
-after bug.
